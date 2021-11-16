@@ -98,7 +98,7 @@ Technologies:
 - **Test harness:** Fitnesse, Pyslim, Waferslim, Junit
 
 
-#### (On-premise Recovery Manager for Active Directory](https://www.quest.com/products/recovery-manager-for-active-directory/)
+#### [On-premise Recovery Manager for Active Directory](https://www.quest.com/products/recovery-manager-for-active-directory/)
 
 Responsibilities:
 - Feature Development, AT Test Development, Test Cloud Infrastructure Development;
