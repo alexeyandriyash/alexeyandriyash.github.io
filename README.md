@@ -43,21 +43,21 @@ Customer's side product co-leadership of three distributed development team:
 - Release integration support through corporate DevSecOps pipeline
 - Cross business units communication
 - Production case and incident support
-	---
 
-- Languages: 
+
+#### Languages: 
 Python, JavaScript(React, Node), bash, powershell
 
-- API implementations: 
+#### API implementations: 
 Graphql, REST, LDAP
 
-- Platform/DB/Infrastructure
+#### Platform/DB/Infrastructure
 Linux, Yandex.Cloud, AWS, OKD Openshift(kubernetes), NGINX, CloudInit, MongoDB, Active Directory
 
-- CI/CD
+#### CI/CD
 Jenkins, Nexus, D-TRACK, Gitlab, Github, microservices, microfrontend, Docker, bash, poetry, git
 
-- Test harness:
+#### Test harness:
 Pytest, Jest, TestCafe, Selenoid, Moon
 
 
