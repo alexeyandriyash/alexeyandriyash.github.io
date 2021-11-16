@@ -43,7 +43,7 @@ Customer's side product co-leadership of three distributed development team:
 - Release integration support through corporate DevSecOps pipeline
 - Cross business units communication
 - Production case and incident support
-
+	---
 
 - Languages: 
 Python, JavaScript(React, Node), bash, powershell
