@@ -15,10 +15,10 @@ Python, C++, JavaScript, Bash, Powershell, Kubernetes, AWS, Azure, Docker, SDET,
 
 ## Education
 
-### 2012-2014, ABD Master’s degree in Software Engineering
+**2012-2014, ABD Master’s degree in Software Engineering**
 Saint Petersburg Electrotechnical University ”LETI” 
 
-### 2008-2012, Bachelor’s degree in Computer Systems Engineering and Informatics
+**2008-2012, Bachelor’s degree in Computer Systems Engineering and Informatics**
 Saint Petersburg Electrotechnical University ”LETI” 
 
 ## Work Experience
