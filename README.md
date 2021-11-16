@@ -8,6 +8,8 @@ mobile, telegram, whatsapp: +7 (921) 556 96 47
 reside in: Saint Petersburg, Russia
 ready to relocate, ready for business trips
 
+
+
 ## Research and Development Software Engineer, Software Engineering Manager
 
 Experience from research to production-ready and in-service integrated solution
@@ -20,6 +22,7 @@ Python, C++, JavaScript, Bash, Powershell, Kubernetes, AWS, Azure, Docker, SDET,
 
 
 
+
 ## Education
 
 2012-2014, Saint Petersburg Electrotechnical University ”LETI” 
@@ -27,6 +30,7 @@ Python, C++, JavaScript, Bash, Powershell, Kubernetes, AWS, Azure, Docker, SDET,
 
 2008-2012, Saint Petersburg Electrotechnical University ”LETI” 
 ### Bachelor’s degree in Computer Systems Engineering and Informatics
+
 
 
 
@@ -206,14 +210,14 @@ Acceptance testing automation pipeline tool based on FitNesse and FIT technology
 Technologies: Java, GWT, Apache, FIT, mercurial
 
 
-### About me
-#### SPECIAL SKILLS
+## About me
+### SPECIAL SKILLS
 EMERCOM 2016, 2018(renewal)
 - First-Aid Certification
 
-#### MEMBERSHIPS
+### MEMBERSHIPS
 Saint Petersburg Mountaineering Federation
 
-#### HOBBIES
+### HOBBIES
 Mountaineering, Rock Climbing, Water Tourism, Hiking, Motor Travel
 
