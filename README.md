@@ -1,22 +1,24 @@
 # Alexey Andriyash
 
-## Research and Development Software Engineer, Software Engineering Manager
-
-Experience from research to production-ready and in-service integrated solution
-
-Background in: software research and development, product development, team management, quality assurance, devops processes
-
-Across different industries background: in-house enterprise reservoir software in oil industry; on-demand recovery and migration management; on-premise recovery management; telecommutications; computer graphics;
-
-Python, C++, JavaScript, Bash, Powershell
-
 Male, born on 29 September 1991
 
 email: alexey@andriya.sh
 mobile, telegram, whatsapp: +7 (921) 556 96 47
 
-Reside in: Saint Petersburg, Russia
-Ready to relocate, ready for business trips
+reside in: Saint Petersburg, Russia
+ready to relocate, ready for business trips
+
+## Research and Development Software Engineer, Software Engineering Manager
+
+Experience from research to production-ready and in-service integrated solution
+
+Software research and development, product development, team management, quality assurance, devops processes
+
+Different industries background: in-house enterprise reservoir software in oil industry; on-demand recovery and migration management; on-premise recovery management; telecommutications; computer graphics;
+
+Python, C++, JavaScript, Bash, Powershell, Kubernetes, AWS, Azure, Docker, SDET, DevOps
+
+
 
 
 ## Gazprom-Neft Digital Solutions
