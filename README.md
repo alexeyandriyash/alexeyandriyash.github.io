@@ -18,6 +18,8 @@ Industries background: in-house enterprise reservoir software in oil industry; o
 
 Python, C++, JavaScript, Bash, Powershell, Kubernetes, AWS, Azure, Docker, SDET, DevOps
 
+
+
 # EDUCATION
 
 2012-2014, Saint Petersburg Electrotechnical University ”LETI” 
@@ -25,6 +27,8 @@ Python, C++, JavaScript, Bash, Powershell, Kubernetes, AWS, Azure, Docker, SDET,
 
 2008-2012, Saint Petersburg Electrotechnical University ”LETI” 
 ### Bachelor’s degree in Computer Systems Engineering and Informatics
+
+
 
 # WORK EXPERIENCE
 
