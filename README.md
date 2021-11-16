@@ -34,7 +34,7 @@ Software Engineering Manager, Software Developer Senior Engineer
 
 #### Vega 2.0
 
-Web-Based Collaborative Reservoir Software for forecasting future oil production, decision making, and reservoir management
+Web-based Collaborative Reservoir Software Platform, Decision Support System for geological and economic assessment of fluid fields
 
 Customer's side product co-leadership of three distributed development team:
 - Co-leadership in architecture and data model
