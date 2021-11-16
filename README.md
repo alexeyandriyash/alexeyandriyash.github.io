@@ -82,8 +82,7 @@ Technologies:
 - **Test harness:** Fitnesse, Pyslim, Mocha, Jasmin, Selenium
 
 
-#### [On-Demand Recovery for Azure Active Directory](https://www.quest.com/products/on-demand-recovery/) [Forest Edition](https://www.quest.com/products/recovery-manager-for-active-directory-forest-edition/)
-
+#### [On-Demand Recovery for Azure Active Directory](https://www.quest.com/products/on-demand-recovery/)
 Responsibilities:
 - Research and Development of Cloud Based Azure AD Backup System from Scratch
 - Test infrastructure development
@@ -98,7 +97,8 @@ Technologies:
 - **Test harness:** Fitnesse, Pyslim, Waferslim, Junit
 
 
-#### [On-premise Recovery Manager for Active Directory](https://www.quest.com/products/recovery-manager-for-active-directory/)
+#### [On-premise Recovery Manager for Active Directory](https://www.quest.com/products/recovery-manager-for-active-directory/), [On-premise Recovery Manager for Active Directory Forest Edition](https://www.quest.com/products/recovery-manager-for-active-directory-forest-edition/)
+
 
 Responsibilities:
 - Feature Development, AT Test Development, Test Cloud Infrastructure Development;
