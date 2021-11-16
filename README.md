@@ -104,7 +104,7 @@ Responsibilities:
 - Feature Development, AT Test Development, Test Cloud Infrastructure Development;
 - SCOM Support and Development
 - Close cooperation with support engineers and customers
-- Regular On-Call, production incident support, investigate and fix
+- Production incident support, investigate and fix
 
 Technologies:
 
@@ -125,11 +125,12 @@ C/C++ Research and Development Engineer
 
 LTE L2/L3 stack protocol developer for eNB test enviroment.
 Responsibilities:
-- development of the real-time tool for user equipment array simulation, in accordance with 3GPP standard.
+- Development of the real-time tool for user equipment array simulation, in accordance with 3GPP standard.
 - LTE UE stack components adaptation and implementation for simulation on multicore distributed system
-- cross teams cooperation
-- organization of internal incident management pipeline
-- project transfer
+- Cross teams cooperation
+- Production incident support, investigate and fix
+- Organization of internal incident management pipeline
+- Project transfer
 
 **Technologies:** C/C++, TCP/IP, LTE, embedded, arm cortex, Lua, STL, boost, Linux, network protocols, DSP, multithreading, 4G, GCC, GDB, Linux utils, shell scripting, pronto, Jira, svn, wireshark, syslog.
 
