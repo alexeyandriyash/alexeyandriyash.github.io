@@ -19,7 +19,7 @@ Reside in: Saint Petersburg, Russia
 Ready to relocate, ready for business trips
 
 
-# Gazprom-Neft Digital Solutions
+## Gazprom-Neft Digital Solutions
 
 Russia, www.gazprom-neft.com
 
@@ -27,7 +27,7 @@ Jun 2020 – Current,
  
 Software Engineering Manager/Software Developer Senior Engineer
 
-## Vega 2.0
+### Vega 2.0
 
 Web-Based Collaborative Reservoir Software for forecasting future oil production, decision making, and reservoir management
 
@@ -60,7 +60,7 @@ Pytest, Jest, TestCafe, Selenoid, Moon
 
 
 
-# DELL, Quest Software
+## DELL, Quest Software
 
 Russia, www.dell.com, www.quest.com
 
@@ -68,7 +68,7 @@ March 2016 — November 2019
 
 Software Development Staff Engineer
 
-== Quest Migration Management Platform (QMMP)
+### Quest Migration Management Platform (QMMP)
 User Console and Development Platform for Quest On-Demand Migration and Recovery product line
 
 Responsibilities:
@@ -98,7 +98,7 @@ Jenkins, Gitlab, AWS Pipeline, bash, python, terraform, git
 Fitnesse, Pyslim, Mocha, Jasmin, Selenium
 
 
-## On-Demand Recovery for Azure Active Directory
+### On-Demand Recovery for Azure Active Directory
 
 Responsibilities:
 - Research and Development of Cloud Based Azure AD Backup System from Scratch
@@ -122,7 +122,7 @@ Jenkins, AWS Pipeline, QMMP, bash, python, git
 Fitnesse, Pyslim, Waferslim, Junit
 
 
-## On-premise Recovery Manager for Active Directory
+### On-premise Recovery Manager for Active Directory
 
 Responsibilities:
 - Feature Development, AT Test Development, Test Cloud Infrastructure Development;
@@ -146,14 +146,14 @@ Debugging:
 winDbg, SysInternals
 
 
-# Nokia Networks
+## Nokia Networks
 
 Russia, www.nokiasiemensnetworks.com
 
 C++ Research and Development Engineer
 Feb 2014 — Oct 2015
 
-## Wraparound Test Solution, LTE network emulator 
+### Wraparound Test Solution, LTE network emulator 
 
 LTE L2/L3 stack protocol developer for eNB test enviroment.
 Responsibilities:
@@ -181,19 +181,19 @@ denoise filter, motion estimation, deinterlace filter, multi-metric image simila
 
 Technologies: C/C++, OpenCL, CUDA, GPGPU, HLSL, Matlab, MVS, Perforce.
 
-# EMC
+## EMC
 
 Saint Petersburg, russia.emc.com
 
 Tranee Java Developer
 Feb 2011 — Jun 2011
 
-## Student project myFit
+### Student project myFit
 Acceptance testing automation pipeline tool based on FitNesse and FIT technology.
 Technologies: Java, GWT, Apache, FIT, mercurial
 
 
-Education
+# Education
 
 Bachelor
 Санкт-Петербургский государственный электротехнический университет "ЛЭТИ" им. В.И. Ульянова (Ленина), Санкт-Петербург
