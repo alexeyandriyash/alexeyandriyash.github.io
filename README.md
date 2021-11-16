@@ -1,12 +1,13 @@
 # Alexey Andriyash
-*male, born on 29 September 1991*
+
 
 **Research and Development Software Engineer, Software Engineering Manager**
 
-*email: alexey@andriya.sh*
-*mobile, telegram, whatsapp: +7 (921) 556 96 47*
+*email: alexey@andriya.sh;*
+*mobile, telegram, whatsapp: +7 (921) 556 96 47;*
 *reside in: Saint Petersburg, Russia*
-*ready to relocate, ready for business trips*
+
+*male, born on 29 September 1991*
 
 Experience from research to production-ready and in-service integrated solution
 
