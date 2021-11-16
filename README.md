@@ -17,6 +17,7 @@ Python, C++, JavaScript, Bash, Powershell, Kubernetes, AWS, Azure, Docker, SDET,
 
 
 
+---
 
 ## Education
 
@@ -28,6 +29,7 @@ Python, C++, JavaScript, Bash, Powershell, Kubernetes, AWS, Azure, Docker, SDET,
 2008-2012, Saint Petersburg Electrotechnical University ”LETI” 
 
 
+---
 
 ## Work Experience
 
