@@ -17,11 +17,11 @@ Python, C++, JavaScript, Bash, Powershell, Kubernetes, AWS, Azure, Docker, SDET,
 
 **2012-2014, ABD Master’s degree in Software Engineering**
 
-Saint Petersburg Electrotechnical University ”LETI” 
+[Saint Petersburg Electrotechnical University ”LETI”](https://etu.ru/en/university/)
 
 **2008-2012, Bachelor’s degree in Computer Systems Engineering and Informatics**
 
-Saint Petersburg Electrotechnical University ”LETI” 
+[Saint Petersburg Electrotechnical University ”LETI”](https://etu.ru/en/university/)
 
 ## Work Experience
 
