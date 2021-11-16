@@ -1,9 +1,9 @@
 # Alexey Andriyash
-
+*email: alexey@andriya.sh*
 
 **Research and Development Software Engineer, Software Engineering Manager**
 
-*email: alexey@andriya.sh;*
+
 
 Experience from research to production-ready and in-service integrated solution
 
