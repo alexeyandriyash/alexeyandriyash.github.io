@@ -16,9 +16,6 @@ Industries background: in-house enterprise reservoir software in oil industry; o
 Python, C++, JavaScript, Bash, Powershell, Kubernetes, AWS, Azure, Docker, SDET, DevOps
 
 
-
----
-
 ## Education
 
 
@@ -27,9 +24,6 @@ Python, C++, JavaScript, Bash, Powershell, Kubernetes, AWS, Azure, Docker, SDET,
 
 ### 2008-2012, Bachelor’s degree in Computer Systems Engineering and Informatics
 Saint Petersburg Electrotechnical University ”LETI” 
-
-
----
 
 ## Work Experience
 
@@ -203,6 +197,7 @@ Acceptance testing automation pipeline tool based on FitNesse and FIT technology
 
 
 ## About me
+___
 **Special skils**
 EMERCOM 2016, 2018(renewal)
 - First-Aid Certification
