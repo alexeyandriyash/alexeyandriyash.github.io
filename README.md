@@ -147,7 +147,7 @@ Responsibilities:
 ### [EMC](russia.emc.com)
 Tranee Java Developer
 
-*Feb 2011 — Jun 2011
+*Feb 2011 — Jun 2011*
 
 
 #### Student project myFit
