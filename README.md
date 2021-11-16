@@ -4,7 +4,7 @@
 
 Experience from research to production-ready and in-service integrated solution
 
-Background in: team management, software research and development, quality assurance, devops processes
+Background in: software research and development, product development, team management, quality assurance, devops processes
 
 Across different industries background: in-house enterprise reservoir software in oil industry; on-demand recovery and migration management; on-premise recovery management; telecommutications; computer graphics;
 
