@@ -66,7 +66,7 @@ Pytest, Jest, TestCafe, Selenoid, Moon
 
 Russia, www.dell.com, www.quest.com
 
-March 2016 — November 2019
+Mar 2016 — Sep 2019
 
 Software Development Staff Engineer
 
