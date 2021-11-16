@@ -97,7 +97,7 @@ Technologies:
 - **Test harness:** Fitnesse, Pyslim, Waferslim, Junit
 
 
-#### [On-premise Recovery Manager for Active Directory](https://www.quest.com/products/recovery-manager-for-active-directory/), [On-premise Recovery Manager for Active Directory Forest Edition](https://www.quest.com/products/recovery-manager-for-active-directory-forest-edition/)
+#### [On-premise Recovery Manager for Active Directory](https://www.quest.com/products/recovery-manager-for-active-directory/), [Forest Edition](https://www.quest.com/products/recovery-manager-for-active-directory-forest-edition/)
 
 
 Responsibilities:
