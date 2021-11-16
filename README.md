@@ -20,7 +20,7 @@ Python, C++, JavaScript, Bash, Powershell, Kubernetes, AWS, Azure, Docker, SDET,
 
 
 
-# EDUCATION
+# Education
 
 2012-2014, Saint Petersburg Electrotechnical University ”LETI” 
 ### ABD Master’s degree in Software Engineering
@@ -30,7 +30,7 @@ Python, C++, JavaScript, Bash, Powershell, Kubernetes, AWS, Azure, Docker, SDET,
 
 
 
-# WORK EXPERIENCE
+# Work Experience
 
 ## Gazprom-Neft Digital Solutions
 
