@@ -58,12 +58,8 @@ Customer's side product co-leadership of three distributed development team:
 **Languages:**
 Python, JavaScript(React, Node), bash, powershell
 
-
-
 **API implementations:** 
 Graphql, REST, LDAP
-
-
 
 **Platform/DB/Infrastructure**
 Linux, Yandex.Cloud, AWS, OKD Openshift(kubernetes), NGINX, CloudInit, MongoDB, Active Directory
@@ -71,12 +67,8 @@ Linux, Yandex.Cloud, AWS, OKD Openshift(kubernetes), NGINX, CloudInit, MongoDB, 
 **CI/CD:**
 Jenkins, Nexus, D-TRACK, Gitlab, Github, microservices, microfrontend, Docker, bash, poetry, git
 
-
-
 **Test harness:**
 Pytest, Jest, TestCafe, Selenoid, Moon
-
-
 
 ## DELL, Quest Software
 
@@ -100,19 +92,19 @@ Responsibilities:
 - Little team management experience
 - Regular On-Call, production incident support, investigate and fix
 
-- Languages: 
+**Languages:** 
 JavaScript(Angular, Node), bash, Python, go, terraform
 
-- API implementations: 
+**API implementations:** 
 Azure Queue, REST, custom schema-set mechanics
 
-- Platform/DB/Infrastructure
+**Platform/DB/Infrastructure**
 Azure VM, AWS EC2, Azure Kubernetes Service, Azure Keyvalt, Azure Blob Storage, Azure Disk Storage, Azure Function, Azure Queue, AWS S3, AWS R53, AWS Pileline, AWS CloudWatch, AWS Lambda, Docker, Linux, Nginx, Elasticsearch
 
-- CI/CD
+**CI/CD:**
 Jenkins, Gitlab, AWS Pipeline, bash, python, terraform, git
 
-- Test harness:
+**Test harness:**
 Fitnesse, Pyslim, Mocha, Jasmin, Selenium
 
 
@@ -148,19 +140,19 @@ Responsibilities:
 - Close cooperation with support engineers and customers
 - Regular On-Call, production incident support, investigate and fix
 
-- Languages: 
+**Languages:** 
 C++, C#, PowerShell, JavaScript, SQL.
 
-- API implementations:
+**API implementations:**
 DCOM, RPC, WinAPI, SCOM
 
-- Platform/DB:
+**Platform/DB:**
 Windows, Active Directory, SQLite, MySQL
 
-- CI/Test harness:
+**CI/Test harness:**
 WiX Toolset, git, Fitnesse, AWS EC2, Powershell, AWS Cloud Formation, Docker
 
-Debugging:
+**Debugging:**
 winDbg, SysInternals
 
 
@@ -179,7 +171,7 @@ Responsibilities:
 - LTE UE stack components adaptation and implementation for simulation on multicore distributed system
 - close cooperation with international teams
 
-Technologies: C/C++14, Lua, STL, boost, Linux, network protocols, LTE, DSP, multithreading, 4G, GCC, GDB, Linux utils, shell scripting, pronto, Jira, svn, wireshark, syslog.
+**Technologies:** C/C++14, Lua, STL, boost, Linux, network protocols, LTE, DSP, multithreading, 4G, GCC, GDB, Linux utils, shell scripting, pronto, Jira, svn, wireshark, syslog.
 
 
 # AMD (Contractor) - Luxoft
@@ -190,14 +182,11 @@ Russia, www.luxoft.com, www.amd.com
 Junior Research and Development Engineer
 Jul 2012 — Jan 2014
 
-
-Video driver developer
 Responsibilities:
-Research, development and GPU optimization of video quality enhancement algorithms for AMD ATI video driver.
-Projects and tasks:
-denoise filter, motion estimation, deinterlace filter, multi-metric image similarity calculator, fading and scene change detector.
+- Research, development and GPU optimization of video quality enhancement algorithms for AMD ATI video driver
+- Projects and tasks: denoise filter, motion estimation, deinterlace filter, multi-metric image similarity calculator, fading and scene change detector
 
-Technologies: C/C++, OpenCL, CUDA, GPGPU, HLSL, Matlab, MVS, Perforce.
+**Technologies:** C/C++, OpenCL, CUDA, GPGPU, HLSL, Matlab, MVS, Perforce.
 
 ## EMC
 
@@ -208,17 +197,17 @@ Feb 2011 — Jun 2011
 
 ### Student project myFit
 Acceptance testing automation pipeline tool based on FitNesse and FIT technology.
-Technologies: Java, GWT, Apache, FIT, mercurial
+**Technologies:** Java, GWT, Apache, FIT, mercurial
 
 
 ## About me
-### SPECIAL SKILLS
+**Special skils**
 EMERCOM 2016, 2018(renewal)
 - First-Aid Certification
 
-### MEMBERSHIPS
-Saint Petersburg Mountaineering Federation
+**Membership**
+Saint-Petersburg Mountaineering Federation
 
-### HOBBIES
+**Hobbies**
 Mountaineering, Rock Climbing, Water Tourism, Hiking, Motor Travel
 
