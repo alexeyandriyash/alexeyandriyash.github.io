@@ -20,12 +20,12 @@ Python, C++, JavaScript, Bash, Powershell, Kubernetes, AWS, Azure, Docker, SDET,
 
 ## Education
 
+
+**ABD Master’s degree in Software Engineering**
 2012-2014, Saint Petersburg Electrotechnical University ”LETI” 
-### ABD Master’s degree in Software Engineering
 
+**Bachelor’s degree in Computer Systems Engineering and Informatics**
 2008-2012, Saint Petersburg Electrotechnical University ”LETI” 
-### Bachelor’s degree in Computer Systems Engineering and Informatics
-
 
 
 
@@ -55,19 +55,25 @@ Customer's side product co-leadership of three distributed development team:
 - Production case and incident support
 
 
-#### Languages: 
+**Languages:**
 Python, JavaScript(React, Node), bash, powershell
 
-#### API implementations: 
+
+
+**API implementations:** 
 Graphql, REST, LDAP
 
-#### Platform/DB/Infrastructure
+
+
+**Platform/DB/Infrastructure**
 Linux, Yandex.Cloud, AWS, OKD Openshift(kubernetes), NGINX, CloudInit, MongoDB, Active Directory
 
-#### CI/CD
+**CI/CD:**
 Jenkins, Nexus, D-TRACK, Gitlab, Github, microservices, microfrontend, Docker, bash, poetry, git
 
-#### Test harness:
+
+
+**Test harness:**
 Pytest, Jest, TestCafe, Selenoid, Moon
 
 
