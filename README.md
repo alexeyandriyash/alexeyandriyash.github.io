@@ -127,7 +127,8 @@ LTE L2/L3 stack protocol developer for eNB test enviroment.
 Responsibilities:
 - development of the real-time tool for user equipment array simulation, in accordance with 3GPP standard.
 - LTE UE stack components adaptation and implementation for simulation on multicore distributed system
-- close cooperation with international teams
+- cross teams cooperation
+- project transfer to another team
 
 **Technologies:** C/C++, TCP/IP, LTE, embedded, arm cortex, Lua, STL, boost, Linux, network protocols, DSP, multithreading, 4G, GCC, GDB, Linux utils, shell scripting, pronto, Jira, svn, wireshark, syslog.
 
