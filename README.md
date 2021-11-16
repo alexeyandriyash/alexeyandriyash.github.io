@@ -197,7 +197,6 @@ Acceptance testing automation pipeline tool based on FitNesse and FIT technology
 
 
 ## About me
-___
 **Special skils**
 EMERCOM 2016, 2018(renewal)
 - First-Aid Certification
