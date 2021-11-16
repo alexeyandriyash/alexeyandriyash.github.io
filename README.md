@@ -1,9 +1,8 @@
 # Alexey Andriyash
 *email: alexey@andriya.sh*
+*Saint Petersburg, Russia*
 
 **Research and Development Software Engineer, Software Engineering Manager**
-
-
 
 Experience from research to production-ready and in-service integrated solution
 
@@ -25,13 +24,10 @@ Saint Petersburg Electrotechnical University ”LETI”
 
 ## Work Experience
 
-### Gazprom-Neft Digital Solutions
-
-Russia, www.gazprom-neft.com
-
+### [Gazprom-Neft Digital Solutions](www.gazprom-neft.com)
 Jun 2020 – Current, 
  
-Software Engineering Manager/Software Developer Senior Engineer
+Software Engineering Manager, Software Developer Senior Engineer
 
 #### Vega 2.0
 
@@ -64,10 +60,7 @@ Jenkins, Nexus, D-TRACK, Gitlab, Github, microservices, microfrontend, Docker, b
 **Test harness:**
 Pytest, Jest, TestCafe, Selenoid, Moon
 
-### DELL, Quest Software
-
-Russia, www.dell.com, www.quest.com
-
+### [DELL](www.dell.com), [Quest Software](www.quest.com)
 Mar 2016 — Sep 2019
 
 Software Development Staff Engineer
@@ -150,12 +143,10 @@ WiX Toolset, git, Fitnesse, AWS EC2, Powershell, AWS Cloud Formation, Docker
 winDbg, SysInternals
 
 
-### Nokia Networks
-
-Russia, www.nokiasiemensnetworks.com
-
-C++ Research and Development Engineer
+### [Nokia Networks](www.nokiasiemensnetworks.com)
 Feb 2014 — Oct 2015
+
+C/C++ Research and Development Engineer
 
 #### Wraparound Test Solution, LTE network emulator 
 
@@ -165,16 +156,15 @@ Responsibilities:
 - LTE UE stack components adaptation and implementation for simulation on multicore distributed system
 - close cooperation with international teams
 
-**Technologies:** C/C++14, Lua, STL, boost, Linux, network protocols, LTE, DSP, multithreading, 4G, GCC, GDB, Linux utils, shell scripting, pronto, Jira, svn, wireshark, syslog.
+**Technologies:** C/C++, Lua, STL, boost, Linux, network protocols, LTE, DSP, multithreading, 4G, GCC, GDB, Linux utils, shell scripting, pronto, Jira, svn, wireshark, syslog.
 
 
-### AMD (Contractor) - Luxoft
-Russia, www.luxoft.com, www.amd.com
+### [AMD](www.amd.com) (Contractor) - [Luxoft](www.luxoft.com)
 
 #### AMD ATI Multi Media Video Quality Team
+Jul 2012 — Jan 2014
 
 Junior Research and Development Engineer
-Jul 2012 — Jan 2014
 
 Responsibilities:
 - Research, development and GPU optimization of video quality enhancement algorithms for AMD ATI video driver
@@ -182,9 +172,7 @@ Responsibilities:
 
 **Technologies:** C/C++, OpenCL, CUDA, GPGPU, HLSL, Matlab, MVS, Perforce.
 
-### EMC
-
-Saint Petersburg, russia.emc.com
+### [EMC](russia.emc.com)
 
 Tranee Java Developer
 Feb 2011 — Jun 2011
