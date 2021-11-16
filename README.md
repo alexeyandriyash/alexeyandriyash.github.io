@@ -128,7 +128,7 @@ Responsibilities:
 - development of the real-time tool for user equipment array simulation, in accordance with 3GPP standard.
 - LTE UE stack components adaptation and implementation for simulation on multicore distributed system
 - cross teams cooperation
-- project transfer to another team
+- project transfer
 
 **Technologies:** C/C++, TCP/IP, LTE, embedded, arm cortex, Lua, STL, boost, Linux, network protocols, DSP, multithreading, 4G, GCC, GDB, Linux utils, shell scripting, pronto, Jira, svn, wireshark, syslog.
 
