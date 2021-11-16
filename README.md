@@ -7,8 +7,6 @@
 *mobile, telegram, whatsapp: +7 (921) 556 96 47;*
 *reside in: Saint Petersburg, Russia*
 
-*male, born on 29 September 1991*
-
 Experience from research to production-ready and in-service integrated solution
 
 Software research and development, product development, team management, quality assurance, devops processes
