@@ -1,6 +1,7 @@
 # Alexey Andriyash
-*email: alexey@andriya.sh*
-*Saint Petersburg, Russia*
+
+*email: alexey@andriya.sh*   
+*Saint Petersburg, Russia*   
 
 **Research and Development Software Engineer, Software Engineering Manager**
 
@@ -12,12 +13,10 @@ Industries background: in-house enterprise reservoir software in oil industry; o
 
 Python, C++, JavaScript, Bash, Powershell, Kubernetes, AWS, Azure, Docker, SDET, DevOps
 
-
 ## Education
 
-
 ### 2012-2014, ABD Master’s degree in Software Engineering
- Saint Petersburg Electrotechnical University ”LETI” 
+Saint Petersburg Electrotechnical University ”LETI” 
 
 ### 2008-2012, Bachelor’s degree in Computer Systems Engineering and Informatics
 Saint Petersburg Electrotechnical University ”LETI” 
@@ -25,9 +24,11 @@ Saint Petersburg Electrotechnical University ”LETI”
 ## Work Experience
 
 ### [Gazprom-Neft Digital Solutions](www.gazprom-neft.com)
-Jun 2020 – Current, 
- 
 Software Engineering Manager, Software Developer Senior Engineer
+
+*Jun 2020 – Current*
+
+
 
 #### Vega 2.0
 
@@ -44,29 +45,20 @@ Customer's side product co-leadership of three distributed development team:
 - Cross business units communication
 - Production case and incident support
 
-
-**Languages:**
-Python, JavaScript(React, Node), bash, powershell
-
-**API implementations:** 
-Graphql, REST, LDAP
-
-**Platform/DB/Infrastructure**
-Linux, Yandex.Cloud, AWS, OKD Openshift(kubernetes), NGINX, CloudInit, MongoDB, Active Directory
-
-**CI/CD:**
-Jenkins, Nexus, D-TRACK, Gitlab, Github, microservices, microfrontend, Docker, bash, poetry, git
-
-**Test harness:**
-Pytest, Jest, TestCafe, Selenoid, Moon
+Technologies:
+- **Languages:** Python, JavaScript(React, Node), bash, powershell
+- **API implementations:** Graphql, REST, LDAP
+- **Platform/DB/Infrastructure:** Linux, Yandex.Cloud, AWS, OKD Openshift(kubernetes), NGINX, CloudInit, MongoDB, Active Directory
+- **CI/CD:** Jenkins, Nexus, D-TRACK, Gitlab, Github, microservices, microfrontend, Docker, bash, poetry, git
+- **Test harness:** Pytest, Jest, TestCafe, Selenoid, Moon
 
 ### [DELL](www.dell.com), [Quest Software](www.quest.com)
-Mar 2016 — Sep 2019
-
 Software Development Staff Engineer
 
+*Mar 2016 — Sep 2019*
+
 #### Quest Migration Management Platform (QMMP)
-User Console and Development Platform for Quest On-Demand Migration and Recovery product line
+Development Platform and Web-Console for Quest On-Demand Migration and Recovery product line
 
 Responsibilities:
 - Research, Development and Support of Quest Cloud Based Product Platform
@@ -79,20 +71,13 @@ Responsibilities:
 - Little team management experience
 - Regular On-Call, production incident support, investigate and fix
 
-**Languages:** 
-JavaScript(Angular, Node), bash, Python, go, terraform
+Technologies:
 
-**API implementations:** 
-Azure Queue, REST, custom schema-set mechanics
-
-**Platform/DB/Infrastructure**
-Azure VM, AWS EC2, Azure Kubernetes Service, Azure Keyvalt, Azure Blob Storage, Azure Disk Storage, Azure Function, Azure Queue, AWS S3, AWS R53, AWS Pileline, AWS CloudWatch, AWS Lambda, Docker, Linux, Nginx, Elasticsearch
-
-**CI/CD:**
-Jenkins, Gitlab, AWS Pipeline, bash, python, terraform, git
-
-**Test harness:**
-Fitnesse, Pyslim, Mocha, Jasmin, Selenium
+- **Languages:** JavaScript(Angular, Node), bash, Python, go, terraform
+- **API implementations:** Azure Queue, REST, custom schema-set mechanics
+- **Platform/DB/Infrastructure:** Azure VM, AWS EC2, Azure Kubernetes Service, Azure Keyvalt, Azure Blob Storage, Azure Disk Storage, Azure Function, Azure Queue, AWS S3, AWS R53, AWS Pipeline, AWS CloudWatch, AWS Lambda, Docker, Linux, Nginx, Elasticsearch
+- **CI/CD:** Jenkins, Gitlab, AWS Pipeline, bash, python, terraform, git
+- **Test harness:** Fitnesse, Pyslim, Mocha, Jasmin, Selenium
 
 
 #### On-Demand Recovery for Azure Active Directory
@@ -103,20 +88,12 @@ Responsibilities:
 - AT and Middle test development
 - Regular participation in agile processes
 
-**Languages:**
-Python, Bash, Powershell
-
-**API implementations:** 
-REST, Microsoft Graph API, MSOL(SOAP), OAuth2.0
-
-**Platform/DB/Infrastructure:**
-Docker, Docker Swarm, NGINX, Keycloak, AWS EC2, AWS R53, AWS Dynamo DB, Azure Kubernetes Service, Azure Keyvalt, AWS Lambda, AWS Cloudwatch, AWS CloudFormation
-
-**CI/CD:**
-Jenkins, AWS Pipeline, QMMP, bash, python, git
-
-**Test harness:**
-Fitnesse, Pyslim, Waferslim, Junit
+Technologies: 
+- **Languages:** Python, Bash, Powershell
+- **API implementations:** REST, Microsoft Graph API, MSOL(SOAP), OAuth2.0
+- **Platform/DB/Infrastructure:** Docker, Docker Swarm, NGINX, Keycloak, AWS EC2, AWS R53, AWS Dynamo DB, Azure Kubernetes Service, Azure Keyvalt, AWS Lambda, AWS Cloudwatch, AWS CloudFormation
+- **CI/CD:** Jenkins, AWS Pipeline, QMMP, bash, python, git
+- **Test harness:** Fitnesse, Pyslim, Waferslim, Junit
 
 
 #### On-premise Recovery Manager for Active Directory
@@ -127,26 +104,20 @@ Responsibilities:
 - Close cooperation with support engineers and customers
 - Regular On-Call, production incident support, investigate and fix
 
-**Languages:** 
-C++, C#, PowerShell, JavaScript, SQL.
+Technologies:
 
-**API implementations:**
-DCOM, RPC, WinAPI, SCOM
-
-**Platform/DB:**
-Windows, Active Directory, SQLite, MySQL
-
-**CI/Test harness:**
-WiX Toolset, git, Fitnesse, AWS EC2, Powershell, AWS Cloud Formation, Docker
-
-**Debugging:**
-winDbg, SysInternals
+- **Languages:** C++, C#, PowerShell, JavaScript, SQL
+- **API implementations:** DCOM, RPC, WinAPI, SCOM
+- **Platform/DB:** Windows, Active Directory, SQLite, MySQL
+- **CI/Test harness:** WiX Toolset, git, Fitnesse, AWS EC2, Powershell, AWS Cloud Formation, Docker
+- **Debugging:** winDbg, SysInternals
 
 
 ### [Nokia Networks](www.nokiasiemensnetworks.com)
-Feb 2014 — Oct 2015
-
 C/C++ Research and Development Engineer
+
+*Feb 2014 — Oct 2015*
+
 
 #### Wraparound Test Solution, LTE network emulator 
 
@@ -161,10 +132,11 @@ Responsibilities:
 
 ### [AMD](www.amd.com) (Contractor) - [Luxoft](www.luxoft.com)
 
-#### AMD ATI Multi Media Video Quality Team
-Jul 2012 — Jan 2014
 
-Junior Research and Development Engineer
+#### AMD ATI Multi Media Video Quality Team
+Research and Development Engineer 
+
+*Jul 2012 — Jan 2014* 
 
 Responsibilities:
 - Research, development and GPU optimization of video quality enhancement algorithms for AMD ATI video driver
@@ -173,9 +145,10 @@ Responsibilities:
 **Technologies:** C/C++, OpenCL, CUDA, GPGPU, HLSL, Matlab, MVS, Perforce.
 
 ### [EMC](russia.emc.com)
-
 Tranee Java Developer
-Feb 2011 — Jun 2011
+
+*Feb 2011 — Jun 2011
+
 
 #### Student project myFit
 Acceptance testing automation pipeline tool based on FitNesse and FIT technology.
@@ -183,13 +156,7 @@ Acceptance testing automation pipeline tool based on FitNesse and FIT technology
 
 
 ## About me
-#### Special skils
-EMERCOM 2016, 2018(renewal)
-- First-Aid Certification
-
-#### Membership
-Saint-Petersburg Mountaineering Federation
-
-#### Hobbies
-Mountaineering, Rock Climbing, Water Tourism, Hiking, Motor Travel
+- EMERCOM 2016, 2018, First-Aid Certification
+- Membership in Saint-Petersburg Mountaineering Federation
+- Hobbies: Mountaineering, Rock Climbing, Water Tourism, Hiking, Motor Travel
 
