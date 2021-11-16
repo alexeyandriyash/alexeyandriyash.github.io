@@ -129,7 +129,7 @@ Responsibilities:
 - LTE UE stack components adaptation and implementation for simulation on multicore distributed system
 - close cooperation with international teams
 
-**Technologies:** C/C++, Lua, STL, boost, Linux, network protocols, LTE, DSP, multithreading, 4G, GCC, GDB, Linux utils, shell scripting, pronto, Jira, svn, wireshark, syslog.
+**Technologies:** C/C++, TCP/IP, LTE, embedded, arm cortex, Lua, STL, boost, Linux, network protocols, DSP, multithreading, 4G, GCC, GDB, Linux utils, shell scripting, pronto, Jira, svn, wireshark, syslog.
 
 
 ### [AMD](www.amd.com) (Contractor) - [Luxoft](www.luxoft.com)
