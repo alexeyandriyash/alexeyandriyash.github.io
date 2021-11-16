@@ -1,6 +1,6 @@
-= Alexey Andriyash
+# Alexey Andriyash
 
-== Passionate Research and Development Software Engineer, Software Engineering Manager
+## Research and Development Software Engineer, Software Engineering Manager
 
 Experience from research to production-ready and in-service integrated solution
 
@@ -19,7 +19,7 @@ Reside in: Saint Petersburg, Russia
 Ready to relocate, ready for business trips
 
 
-= Gazprom-Neft Digital Solutions
+# Gazprom-Neft Digital Solutions
 
 Russia, www.gazprom-neft.com
 
@@ -27,7 +27,7 @@ Jun 2020 – Current,
  
 Software Engineering Manager/Software Developer Senior Engineer
 
-== Vega 2.0
+## Vega 2.0
 
 Web-Based Collaborative Reservoir Software for forecasting future oil production, decision making, and reservoir management
 
@@ -60,7 +60,7 @@ Pytest, Jest, TestCafe, Selenoid, Moon
 
 
 
-= DELL, Quest Software
+# DELL, Quest Software
 
 Russia, www.dell.com, www.quest.com
 
@@ -98,7 +98,7 @@ Jenkins, Gitlab, AWS Pipeline, bash, python, terraform, git
 Fitnesse, Pyslim, Mocha, Jasmin, Selenium
 
 
-== On-Demand Recovery for Azure Active Directory
+## On-Demand Recovery for Azure Active Directory
 
 Responsibilities:
 - Research and Development of Cloud Based Azure AD Backup System from Scratch
@@ -122,7 +122,7 @@ Jenkins, AWS Pipeline, QMMP, bash, python, git
 Fitnesse, Pyslim, Waferslim, Junit
 
 
-== On-premise Recovery Manager for Active Directory
+## On-premise Recovery Manager for Active Directory
 
 Responsibilities:
 - Feature Development, AT Test Development, Test Cloud Infrastructure Development;
@@ -146,14 +146,14 @@ Debugging:
 winDbg, SysInternals
 
 
-= Nokia Networks
+# Nokia Networks
 
 Russia, www.nokiasiemensnetworks.com
 
-February 2014 — October 2015
-
-== Wraparound Test Solution, LTE network emulator 
 C++ Research and Development Engineer
+Feb 2014 — Oct 2015
+
+## Wraparound Test Solution, LTE network emulator 
 
 LTE L2/L3 stack protocol developer for eNB test enviroment.
 Responsibilities:
@@ -164,13 +164,13 @@ Responsibilities:
 Technologies: C/C++14, Lua, STL, boost, Linux, network protocols, LTE, DSP, multithreading, 4G, GCC, GDB, Linux utils, shell scripting, pronto, Jira, svn, wireshark, syslog.
 
 
-= AMD (Contractor) - Luxoft
+# AMD (Contractor) - Luxoft
 Russia, www.luxoft.com, www.amd.com
 
-== AMD ATI Multi Media Video Quality Team
+## AMD ATI Multi Media Video Quality Team
 
 Junior Research and Development Engineer
-July 2012 — January 2014 1 year 7 months
+Jul 2012 — Jan 2014
 
 
 Video driver developer
@@ -181,17 +181,15 @@ denoise filter, motion estimation, deinterlace filter, multi-metric image simila
 
 Technologies: C/C++, OpenCL, CUDA, GPGPU, HLSL, Matlab, MVS, Perforce.
 
-= EMC
+# EMC
 
 Saint Petersburg, russia.emc.com
 
-
-Software Development
-System Integration, Technological and Business Processes Automation, IT Consulting
+Tranee Java Developer
 Feb 2011 — Jun 2011
 
-Tranee Java Developer
-Student project myFit. Acceptance testing automation pipeline tool based on FitNesse and FIT technology.
+## Student project myFit
+Acceptance testing automation pipeline tool based on FitNesse and FIT technology.
 Technologies: Java, GWT, Apache, FIT, mercurial
 
 
