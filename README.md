@@ -3,7 +3,7 @@
 *email: alexey@andriya.sh*   
 *Saint Petersburg, Russia*   
 
-**Research and Development Software Engineer, Software Engineering Manager**
+**Research and Development Senior Software Engineer, Software Engineering Manager**
 
 Experience from research to production-ready and in-service integrated solution
 
