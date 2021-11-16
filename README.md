@@ -152,6 +152,7 @@ Tranee Java Developer
 
 #### Student project myFit
 Acceptance testing automation pipeline tool based on FitNesse and FIT technology.
+
 **Technologies:** Java, GWT, Apache, FIT, mercurial
 
 
