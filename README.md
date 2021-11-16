@@ -59,8 +59,8 @@ Software Development Staff Engineer
 
 *Mar 2016 — Sep 2019*
 
-#### Quest Migration Management Platform (QMMP)
-Development Platform and Web-Console for Quest On-Demand Migration and Recovery product line
+#### [Quest Migration Management Platform (QMMP)](https://www.quest.com/products/on-demand-migration/)
+Platform part and Web-Console of Quest On-Demand Migration and Recovery product line
 
 Responsibilities:
 - Research, Development and Support of Quest Cloud Based Product Platform
@@ -82,7 +82,7 @@ Technologies:
 - **Test harness:** Fitnesse, Pyslim, Mocha, Jasmin, Selenium
 
 
-#### On-Demand Recovery for Azure Active Directory
+#### [On-Demand Recovery for Azure Active Directory](https://www.quest.com/products/on-demand-recovery/) [Forest Edition](https://www.quest.com/products/recovery-manager-for-active-directory-forest-edition/)
 
 Responsibilities:
 - Research and Development of Cloud Based Azure AD Backup System from Scratch
@@ -98,7 +98,7 @@ Technologies:
 - **Test harness:** Fitnesse, Pyslim, Waferslim, Junit
 
 
-#### On-premise Recovery Manager for Active Directory
+#### (On-premise Recovery Manager for Active Directory](https://www.quest.com/products/recovery-manager-for-active-directory/)
 
 Responsibilities:
 - Feature Development, AT Test Development, Test Cloud Infrastructure Development;
