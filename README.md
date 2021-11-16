@@ -18,8 +18,15 @@ Industries background: in-house enterprise reservoir software in oil industry; o
 
 Python, C++, JavaScript, Bash, Powershell, Kubernetes, AWS, Azure, Docker, SDET, DevOps
 
+# EDUCATION
 
+2012-2014, Saint Petersburg Electrotechnical University ”LETI” 
+### ABD Master’s degree in Software Engineering
 
+2008-2012, Saint Petersburg Electrotechnical University ”LETI” 
+### Bachelor’s degree in Computer Systems Engineering and Informatics
+
+# WORK EXPERIENCE
 
 ## Gazprom-Neft Digital Solutions
 
@@ -195,32 +202,14 @@ Acceptance testing automation pipeline tool based on FitNesse and FIT technology
 Technologies: Java, GWT, Apache, FIT, mercurial
 
 
-# Education
-
-Bachelor
-Санкт-Петербургский государственный электротехнический университет "ЛЭТИ" им. В.И. Ульянова (Ленина), Санкт-Петербург
-2012
-
-Факультет компьютерных технологий и информатики, Информатика и ВТ (230100), Бакалавр техники и технологий
-
-Key skills
-
-Languages
-Russian — Native
-English — C1 — Advanced
-Skills
-C/C++; Python; JavaScript; Bash; PowerShell; SQL; C#; Unix Shell Scripts; Team management; Design Patterns; REST; Docker; K8S; Teamleading; SVN; Git; OpenCL; GPGPU; HLSL; Fitnesse; AWS; Azure
-
-Additional information
-
-About me
-SPECIAL SKILLS
+### About me
+#### SPECIAL SKILLS
 EMERCOM 2016, 2018(renewal)
 - First-Aid Certification
 
-MEMBERSHIPS
+#### MEMBERSHIPS
 Saint Petersburg Mountaineering Federation
 
-HOBBIES
+#### HOBBIES
 Mountaineering, Rock Climbing, Water Tourism, Hiking, Motor Travel
 
