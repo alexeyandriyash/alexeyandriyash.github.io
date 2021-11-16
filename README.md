@@ -14,7 +14,7 @@ Experience from research to production-ready and in-service integrated solution
 
 Software research and development, product development, team management, quality assurance, devops processes
 
-Different industries background: in-house enterprise reservoir software in oil industry; on-demand recovery and migration management; on-premise recovery management; telecommutications; computer graphics;
+Industries background: in-house enterprise reservoir software in oil industry; on-demand recovery and migration management; on-premise recovery management; telecommunications; computer graphics;
 
 Python, C++, JavaScript, Bash, Powershell, Kubernetes, AWS, Azure, Docker, SDET, DevOps
 
