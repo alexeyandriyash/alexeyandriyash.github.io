@@ -4,8 +4,6 @@
 **Research and Development Software Engineer, Software Engineering Manager**
 
 *email: alexey@andriya.sh;*
-*mobile, telegram, whatsapp: +7 (921) 556 96 47;*
-*reside in: Saint Petersburg, Russia*
 
 Experience from research to production-ready and in-service integrated solution
 
@@ -27,7 +25,7 @@ Saint Petersburg Electrotechnical University ”LETI”
 
 ## Work Experience
 
-## Gazprom-Neft Digital Solutions
+### Gazprom-Neft Digital Solutions
 
 Russia, www.gazprom-neft.com
 
@@ -35,7 +33,7 @@ Jun 2020 – Current,
  
 Software Engineering Manager/Software Developer Senior Engineer
 
-### Vega 2.0
+#### Vega 2.0
 
 Web-Based Collaborative Reservoir Software for forecasting future oil production, decision making, and reservoir management
 
@@ -66,7 +64,7 @@ Jenkins, Nexus, D-TRACK, Gitlab, Github, microservices, microfrontend, Docker, b
 **Test harness:**
 Pytest, Jest, TestCafe, Selenoid, Moon
 
-## DELL, Quest Software
+### DELL, Quest Software
 
 Russia, www.dell.com, www.quest.com
 
@@ -74,7 +72,7 @@ Mar 2016 — Sep 2019
 
 Software Development Staff Engineer
 
-### Quest Migration Management Platform (QMMP)
+#### Quest Migration Management Platform (QMMP)
 User Console and Development Platform for Quest On-Demand Migration and Recovery product line
 
 Responsibilities:
@@ -104,7 +102,7 @@ Jenkins, Gitlab, AWS Pipeline, bash, python, terraform, git
 Fitnesse, Pyslim, Mocha, Jasmin, Selenium
 
 
-### On-Demand Recovery for Azure Active Directory
+#### On-Demand Recovery for Azure Active Directory
 
 Responsibilities:
 - Research and Development of Cloud Based Azure AD Backup System from Scratch
@@ -112,23 +110,23 @@ Responsibilities:
 - AT and Middle test development
 - Regular participation in agile processes
 
-- Languages: 
+**Languages:**
 Python, Bash, Powershell
 
-- API implementations: 
+**API implementations:** 
 REST, Microsoft Graph API, MSOL(SOAP), OAuth2.0
 
-- Platform/DB/Infrastructure:
+**Platform/DB/Infrastructure:**
 Docker, Docker Swarm, NGINX, Keycloak, AWS EC2, AWS R53, AWS Dynamo DB, Azure Kubernetes Service, Azure Keyvalt, AWS Lambda, AWS Cloudwatch, AWS CloudFormation
 
-- CI/CD
+**CI/CD:**
 Jenkins, AWS Pipeline, QMMP, bash, python, git
 
-- Test harness:
+**Test harness:**
 Fitnesse, Pyslim, Waferslim, Junit
 
 
-### On-premise Recovery Manager for Active Directory
+#### On-premise Recovery Manager for Active Directory
 
 Responsibilities:
 - Feature Development, AT Test Development, Test Cloud Infrastructure Development;
@@ -152,14 +150,14 @@ WiX Toolset, git, Fitnesse, AWS EC2, Powershell, AWS Cloud Formation, Docker
 winDbg, SysInternals
 
 
-## Nokia Networks
+### Nokia Networks
 
 Russia, www.nokiasiemensnetworks.com
 
 C++ Research and Development Engineer
 Feb 2014 — Oct 2015
 
-### Wraparound Test Solution, LTE network emulator 
+#### Wraparound Test Solution, LTE network emulator 
 
 LTE L2/L3 stack protocol developer for eNB test enviroment.
 Responsibilities:
@@ -170,10 +168,10 @@ Responsibilities:
 **Technologies:** C/C++14, Lua, STL, boost, Linux, network protocols, LTE, DSP, multithreading, 4G, GCC, GDB, Linux utils, shell scripting, pronto, Jira, svn, wireshark, syslog.
 
 
-# AMD (Contractor) - Luxoft
+### AMD (Contractor) - Luxoft
 Russia, www.luxoft.com, www.amd.com
 
-## AMD ATI Multi Media Video Quality Team
+#### AMD ATI Multi Media Video Quality Team
 
 Junior Research and Development Engineer
 Jul 2012 — Jan 2014
@@ -184,26 +182,26 @@ Responsibilities:
 
 **Technologies:** C/C++, OpenCL, CUDA, GPGPU, HLSL, Matlab, MVS, Perforce.
 
-## EMC
+### EMC
 
 Saint Petersburg, russia.emc.com
 
 Tranee Java Developer
 Feb 2011 — Jun 2011
 
-### Student project myFit
+#### Student project myFit
 Acceptance testing automation pipeline tool based on FitNesse and FIT technology.
 **Technologies:** Java, GWT, Apache, FIT, mercurial
 
 
 ## About me
-**Special skils**
+#### Special skils
 EMERCOM 2016, 2018(renewal)
 - First-Aid Certification
 
-**Membership**
+#### Membership
 Saint-Petersburg Mountaineering Federation
 
-**Hobbies**
+#### Hobbies
 Mountaineering, Rock Climbing, Water Tourism, Hiking, Motor Travel
 
