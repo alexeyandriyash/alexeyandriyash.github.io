@@ -5,9 +5,7 @@
 
 **Research and Development Senior Software Engineer, Software Engineering Manager**
 
-Experience from research to production-ready and in-service integrated solution
-
-Cross-Functional Skills
+Experience from research to production-ready and in-service integrated solution; Cross-Functional Skills;
 
 Software research and development, product development, team management, quality assurance, devops processes
 
