@@ -25,7 +25,7 @@ Python, C++, JavaScript, Bash, Powershell, C#, Kubernetes, AWS, Azure, Yandex.Cl
 
 ## Work Experience
 
-### [Gazprom-Neft Digital Solutions](www.gazprom-neft.com)
+### [Gazprom-Neft Digital Solutions](https://www.gazprom-neft.com)
 Software Engineering Manager, Software Developer Senior Engineer
 
 *Jun 2020 – Current*
@@ -54,7 +54,7 @@ Technologies:
 - **CI/CD:** Jenkins, Nexus, D-TRACK, Gitlab, Github, microservices, microfrontend, Docker, bash, poetry, git
 - **Test harness:** Pytest, Jest, TestCafe, Selenoid, Moon
 
-### [DELL](www.dell.com), [Quest Software](www.quest.com)
+### [DELL](https://www.dell.com), [Quest Software](https://www.quest.com)
 Software Development Staff Engineer
 
 *Mar 2016 — Sep 2019*
@@ -115,7 +115,7 @@ Technologies:
 - **Debugging:** winDbg, SysInternals
 
 
-### [Nokia Networks](www.nokiasiemensnetworks.com)
+### [Nokia Networks](https://www.nokia.com/)
 C/C++ Research and Development Engineer
 
 *Feb 2014 — Oct 2015*
@@ -135,7 +135,7 @@ Responsibilities:
 **Technologies:** C/C++, TCP/IP, LTE, embedded, arm cortex, Lua, STL, boost, Linux, network protocols, DSP, multithreading, 4G, GCC, GDB, Linux utils, shell scripting, pronto, Jira, svn, wireshark, syslog.
 
 
-### [AMD](www.amd.com) (Contractor) - [Luxoft](www.luxoft.com)
+### [AMD](https://www.amd.com) (Contractor) - [Luxoft](https://www.luxoft.com)
 
 
 #### AMD ATI Multi Media Video Quality Team
