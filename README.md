@@ -149,7 +149,7 @@ Responsibilities:
 
 **Technologies:** C/C++, OpenCL, CUDA, GPGPU, HLSL, Matlab, MVS, Perforce.
 
-### [EMC](russia.emc.com)
+### [EMC](https://russia.emc.com)
 Tranee Java Developer
 
 *Feb 2011 — Jun 2011*
