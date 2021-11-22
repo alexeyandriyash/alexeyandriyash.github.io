@@ -3,7 +3,7 @@
 *email: alexey@andriya.sh*   
 *Saint Petersburg, Russia*   
 
-**Research and Development Senior Software Engineer, Software Engineering Manager**
+**Research and Development Principal Software Engineer, Software Engineering Manager**
 
 Experience from research to production-ready and in-service integrated solution; Cross-Functional Skills;
 
@@ -26,7 +26,7 @@ Python, C++, JavaScript, Bash, Powershell, C#, Kubernetes, AWS, Azure, Yandex.Cl
 ## Work Experience
 
 ### [Gazprom-Neft Digital Solutions](https://www.gazprom-neft.com)
-Software Engineering Manager, Software Developer Senior Engineer
+Software Developer Principal Engineer/Software Engineering Manager
 
 *Jun 2020 – Current*
 
