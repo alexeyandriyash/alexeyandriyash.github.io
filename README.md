@@ -26,7 +26,7 @@ Python, C++, JavaScript, Bash, Powershell, Docker, Kubernetes, AWS, Azure,Yandex
 ## Work Experience
 
 ### [Gazprom-Neft Digital Solutions](https://www.gazprom-neft.com)
-Software Developer Principal Engineer/Software Engineering Manager
+Principal Software Developer/Software Engineering Manager
 
 *Jun 2020 – Current*
 
