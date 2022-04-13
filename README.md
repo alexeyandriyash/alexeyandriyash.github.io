@@ -1,13 +1,13 @@
 # Alexey Andriyash
 
-*email: alexey@andriya.sh*   
+*email: aandriyash@gmail.com*   
 *Saint Petersburg, Russia*   
 
 **Research and Development Software Engineer, Software Engineering Manager**
 
 Experience from research to production-ready and in-service integrated solution;
 
-Cross-functional skills; software research and development; product development; team management; quality assurance; devops processes;
+Cross-functional skills; software research and development; quality automation; devops processes; product development; team management;
 
 Industries background: in-house enterprise reservoir software in oil industry; on-demand recovery and migration management; on-premise recovery management; telecommunications; computer graphics;
 
