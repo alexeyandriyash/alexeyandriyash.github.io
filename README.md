@@ -37,17 +37,17 @@ Software Developer Principal Engineer/Software Engineering Manager
 Web-based Collaborative Reservoir Software Platform, Decision Support System for geological and economic assessment of fluid fields
 
 Customer's side product co-leadership of three distributed development team:
-- Co-leadership in architecture and data model
 - Influenced and force the development process transformation from waterfall to scaled agile
 - Promoted a process set and practices to make feature delivery fast and continuous 
 - Initiate, drive and Co-Leadership in Quality Processes conversion to well balanced automated test pyramid
 - Initiate, drive and Leadership in CI/CD practices
+- Co-leadership in architecture and data model
 - Implementation of universal and automated product delivery mechanics for tiers (envs) with strong perimeter security requirements
 - Release integration support through corporate DevSecOps pipeline
 - Cross business units communication
-- Production case and incident support
 
 Technologies:
+
 - **Languages:** Python, JavaScript(React, Node), bash, powershell
 - **API implementations:** Graphql, REST, LDAP
 - **Platform/DB/Infrastructure:** Linux, Yandex.Cloud, AWS, OKD Openshift(kubernetes), NGINX, CloudInit, MongoDB, Active Directory
