@@ -7,7 +7,7 @@
 
 Experience from research to production-ready and in-service integrated solution;
 
-Cross-functional skills; research and development; qa automation; devops processes; product development; team management;
+Cross-functional skills; research and development; qa automation and processes; devops automation and processes; product development; team management;
 
 Industries background: in-house enterprise reservoir software in oil industry; on-demand recovery and migration management; on-premise recovery management; telecommunications; computer graphics;
 
